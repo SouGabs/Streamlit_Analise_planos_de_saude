@@ -1,3 +1,5 @@
+![Streamlit dashboard displaying health insurance operators and workplace accidents analytics with interactive charts, maps, and key performance indicators for 2026 data analysis](imagens/dashboard%20streamlit.png)
+
 # Análise Planos de saude e Acidentes de Trabalho
 
 Dashboard em Streamlit com indicadores de operadoras de planos de saúde e acidentes de trabalho em 2026.
